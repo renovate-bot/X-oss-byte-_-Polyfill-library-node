@@ -1,6 +1,6 @@
 {
   "name": "polyfill-library-node",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "To load polyfill-library polyfills into nodeJS",
   "main": "index.js",
   "engines": {
