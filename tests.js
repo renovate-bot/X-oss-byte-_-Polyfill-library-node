@@ -1,13 +1,13 @@
 /* eslint-env mocha */
 
-"use strict";
+"use strict"
 
-const assert = require("assert");
+const assert = require("assert")
 
-describe("polyfill-library-node", function() {
-  it("is valid JavaScript code that throws no errors when executed", async function() {
-    assert.doesNotThrow(function() {
-      require("./index.js");
-    });
-  });
-});
+describe("polyfill-library-node", function () {
+	it("is valid JavaScript code that throws no errors when executed", async function () {
+		assert.doesNotThrow(function () {
+			require("./index.js");
+		})
+	})
+})
