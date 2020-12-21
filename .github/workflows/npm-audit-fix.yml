@@ -10,7 +10,7 @@ on:
 #       - 'master'
 
 jobs:
-  run:
+  npm-audit:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
