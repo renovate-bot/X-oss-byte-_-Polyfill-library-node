@@ -22,7 +22,7 @@
   "author": "Jake Champion <me@jakechampion.name>",
   "license": "MIT",
   "dependencies": {
-    "polyfill-library": "^3.42.0"
+    "polyfill-library": "^3.108.0"
   },
   "devDependencies": {
     "hard-rejection": "^2.1.0",
